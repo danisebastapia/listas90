@@ -4,4 +4,14 @@
 https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1MTQ1OTU0LCJzZXNzaW9uIjoiNDUuMTg5LjU4LjIzIiwid2hpdGVsaXN0IjpbIjQ1LjE4OS41OC4yMyJdfSwic2lnbmF0dXJlIjoiMjZmZjZhM2ExMzc2MGU3M2UyN2VkOGY3N2E4MGI2YjAzMWYxMzBlMSJ9
 
 #EXTINF:-1 ,TC
-https://us-b4-p-e-zx8.cdn.mdstrm.com/live-stream/5fdd14e2ae4dcc06ebf7546e/publish/media_1000.m3u8?uid=awjIc8rxRh31lBMZLhAv5gSUUOD1lZAH&sid=5RnTipzwXH3FnVHWs7SrJuGewpDkYQZy&pid=uZ2T0ONCtLAmBpu6HA3NXTMUDqFzGolv&ref=https%3A%2F%2Fwww.tctelevision.com%2Fen-vivo&without_cookies=false&dnt=true&es=us-b4-p-e-zx8.cdn.mdstrm.com&ote=1615146283854&ot=5jz_5_Yfen_5-GtSRzahSw&proto=https&pz=us
+https://us-b4-p-e-cz3.cdn.mdstrm.com/live-stream/5fdd14e2ae4dcc06ebf7546e/publish/media_1800.m3u8?uid=awjIc8rxRh31lBMZLhAv5gSUUOD1lZAH&sid=CtBRCVzxbADs4aQzAPzQ2UwJYXyOObpm&pid=Yp3ohPLWZAJalKDChPkbs2lxDGaFGkmn&ref=https%3A%2F%2Fwww.tctelevision.com%2Fen-vivo&without_cookies=false&dnt=true&es=us-b4-p-e-cz3.cdn.mdstrm.com&ote=1615149672468&ot=FdfcG71cbXwo2-AzML30iA&proto=https&pz=us
+
+#EXTINF:-1 ,Teleamazonas
+https://playback.akamaized.net/streams/1359588_4428723_lsiatavlea3krw8omtb_1/media/1359588_4428723_lsiatavlea3krw8omtb_1@1756000pb.m3u8?dw=14400&ts=1615060800&hdnts=exp=1615235807~acl=/streams/1359588_4428723_lsiatavlea3krw8omtb_1/media*~hmac=06cc4e60432bbe2207518af04ed7c814d62af4e5d4f7043c30ce5cc5ca0137ce
+
+
+#EXTINF:-1 ,Teleamazonas SD
+https://playback.akamaized.net/streams/1359588_4428723_lsiatavlea3krw8omtb_1/media/1359588_4428723_lsiatavlea3krw8omtb_1@628000p.m3u8?dw=14400&ts=1615060800&hdnts=exp=1615235807~acl=/streams/1359588_4428723_lsiatavlea3krw8omtb_1/media*~hmac=06cc4e60432bbe2207518af04ed7c814d62af4e5d4f7043c30ce5cc5ca0137ce4
+
+#EXTINF:-1 ,Star Tv FOX
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSUR)/1613583234810item-06item_Segment-14802370837366.m4v
