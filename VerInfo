@@ -1,50 +1,7 @@
-#EXTM3U
-#EXTINF:0, Om Nom
-#EXTVLCOPT:http-user-agent=promix
-https://mixflixnoda.xyz:443/MixFlixFilms/VipMovies/25
-#EXTINF:0,Toyor Aljanah
-#EXTVLCOPT:http-user-agent=promix
-https://mixflixnoda.xyz:443/MixFlixFilms/VipMovies/26
-#EXTINF:0,TOM & JERRY
-#EXTVLCOPT:http-user-agent=promix
-https://mixflixnoda.xyz:443/MixFlixFilms/VipMovies/27
-#EXTINF:0,Booba 
-#EXTVLCOPT:http-user-agent=promix
-https://mixflixnoda.xyz:443/MixFlixFilms/VipMovies/24
-#EXTINF:0,Mara7
-#EXTVLCOPT:http-user-agent=promix
-https://mixflixnoda.xyz:443/MixFlixFilms/VipMovies/28
-#EXTINF:0,Masha and the Bear
-#EXTVLCOPT:http-user-agent=promix
-https://mixflixnoda.xyz:443/MixFlixFilms/VipMovies/34
-#EXTINF:0,Netflixboxoffice
-#EXTVLCOPT:http-user-agent=promix
-https://mixflixnoda.xyz:443/MixFlixFilms/VipMovies/35
-#EXTINF:0,NetFlix Action
-#EXTVLCOPT:http-user-agent=promix
-https://mixflixnoda.xyz:443/MixFlixFilms/VipMovies/36
-#EXTINF:0,NetFlix Mix
-#EXTVLCOPT:http-user-agent=promix
-https://mixflixnoda.xyz:443/MixFlixFilms/VipMovies/37
-#EXTINF:0,BOXOFFIC
-#EXTVLCOPT:http-user-agent=promix
-https://mixflixnoda.xyz:443/MixFlixFilms/VipMovies/29
-#EXTINF:0,BoxOffice Mix
-#EXTVLCOPT:http-user-agent=promix
-https://mixflixnoda.xyz:443/MixFlixFilms/VipMovies/30
-#EXTINF:0,Crima
-#EXTVLCOPT:http-user-agent=promix
-https://mixflixnoda.xyz:443/MixFlixFilms/VipMovies/33
-#EXTINF:0,Boxoff#EXTVLCOPT:http-user-agent=promix
-https://mixflixnoda.xyz:443/MixFlixFilms/VipMovies/32
-#EXTINF:0,Boxoffice Action
-#EXTVLCOPT:http-user-agent=promix
-https://mixflixnoda.xyz:443/MixFlixFilms/VipMovies/31
-#EXTINF:-1 ,RTS 
-http://nickycartoon.blogspot.com/p/malcolm-en-el-medio-nombre-original.html?m=1
+
 
 #EXTINF:-1 ,TC
-https://us-b4-p-e-cz3.cdn.mdstrm.com/live-stream/5fdd14e2ae4dcc06ebf7546e/publish/media_1800.m3u8?uid=awjIc8rxRh31lBMZLhAv5gSUUOD1lZAH&sid=CtBRCVzxbADs4aQzAPzQ2UwJYXyOObpm&pid=Yp3ohPLWZAJalKDChPkbs2lxDGaFGkmn&ref=https%3A%2F%2Fwww.tctelevision.com%2Fen-vivo&without_cookies=false&dnt=true&es=us-b4-p-e-cz3.cdn.mdstrm.com&ote=1615149672468&ot=FdfcG71cbXwo2-AzML30iA&proto=https&pz=us
+https://www.tvserieslatino.com/2021/06/ver-malcolm-el-de-en-medio.html
 
 #EXTINF:-1 ,Teleamazonas
 https://playback.akamaized.net/streams/1359588_4428723_lsiatavlea3krw8omtb_1/media/1359588_4428723_lsiatavlea3krw8omtb_1@1756000pb.m3u8?dw=14400&ts=1615060800&hdnts=exp=1615235807~acl=/streams/1359588_4428723_lsiatavlea3krw8omtb_1/media*~hmac=06cc4e60432bbe2207518af04ed7c814d62af4e5d4f7043c30ce5cc5ca0137ce
